@@ -92,7 +92,7 @@ $ git diff --staged
 ```
 $ git rm file.txt
 ```
-#####leaves copy of file in Working but removes from Staging and Repo
+##### leaves copy of file in Working but removes from Staging and Repo
 ```
 $ git rm --cached file.txt
 ```
@@ -106,7 +106,6 @@ $ git mv
 $ git checkout -- file.txt
 ```
 
-<br>
 ## Commit History
 
 ##### Show the commit history
@@ -125,13 +124,12 @@ $ git log -p <file>
 ```
 $ git blame <file>
 ```
-<br>
+
 ## Publish
 ##### Show all current configured remotes
 ```
 $ git remote -v
 ```
-
 ##### Show all remote
 ```
 $ git remote 
@@ -148,8 +146,6 @@ $ git remote rm origin
 ```
 ##### Push from local to remote [push to remote(origin) and branch(master)]
 ```
-git push -u origin master
+$ git push -u origin master
 ```
-
-
 
