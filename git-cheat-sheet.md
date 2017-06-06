@@ -1,6 +1,6 @@
 # Git Cheat Sheet
 <hr>
-![Git](./img/gitlogo.png)
+![Git](img/gitlogo.png)
 <hr>
 
 ## Git Configuration
