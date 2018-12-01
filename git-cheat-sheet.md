@@ -1,6 +1,6 @@
 # Git Cheat Sheet
-<hr>
-![Git](img/gitlogo.png)
+
+<img src=https://github.com/leizleho/cheatsheet/blob/master/img/gitlogo.png>
 <hr>
 
 ## Git Configuration
